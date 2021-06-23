@@ -1,7 +1,7 @@
 ## How to install
 
 ```bash
-git clone git@github.com:maprihoda/react-redux-crud.git
+git clone https://github.com/sergey0226/React_Redux_Sagas.git
 cd react-redux-crud
 ```
 
